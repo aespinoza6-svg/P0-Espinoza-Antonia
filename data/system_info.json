@@ -1,0 +1,9 @@
+{
+  "sistema_operativo": "Windows",
+  "version_sistema": "11",
+  "arquitectura": "AMD64",
+  "version_python": "3.14.7",
+  "procesador": "Intel64 Family 6 Model 126 Stepping 5, GenuineIntel",
+  "procesadores_logicos": 8,
+  "memoria_ram_total_gb": 7.75
+}
